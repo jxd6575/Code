@@ -1,3 +1,4 @@
-The MAIN and carpool functions are part of a project to create a carpool putting a list of people into cars using a points systems
-Check lets the user input any type into the cin and then sees if they are sorted in ascending, descending or no order
-All the VHD files are for a Low Pass and a High Pass filter
+// Includes carpool project to create a carpool putting a list of people into cars using a points systems
+Check lets the user input any type into the console and then sees if they are sorted in ascending, descending or no order
+
+// All the VHD files are for a Low Pass and a High Pass filter
