@@ -1,0 +1,39 @@
+Purple Pickup (p1)
+Name    : Kaleb Enriquez
+Credits : 21
+Res Num : 1
+Seat    : front
+Yellow Pickup (p2)
+Front Seat: Unassigned 
+Red Pickup (p3)
+Front Seat: Unassigned 
+Green Compact (c1)
+Name    : Levison O'Brien
+Credits : 21
+Res Num : 0
+Seat    : front
+Back Seat 2: Unassigned
+Back Seat 1: Unassigned
+Blue Compact (c2)
+Front Seat: Unassigned 
+Back Seat 2: Unassigned
+Back Seat 1: Unassigned
+Yellow Compact (c3)
+Front Seat: Unassigned 
+Back Seat 2: Unassigned
+Back Seat 1: Unassigned
+Red Sedan (s1)
+Front Seat: Unassigned 
+Back Window Seat 2: Unassigned
+Back Window Seat 1: Unassigned
+Back Middle Seat: Unassigned 
+Green Sedan (s2)
+Front Seat: Unassigned 
+Back Window Seat 2: Unassigned
+Back Window Seat 1: Unassigned
+Back Middle Seat: Unassigned 
+Blue Sedan (s3)
+Front Seat: Unassigned 
+Back Window Seat 2: Unassigned
+Back Window Seat 1: Unassigned
+Back Middle Seat: Unassigned 
